@@ -1,8 +1,8 @@
-hi i am omar hesham i am 24 years old i graduated from faculty of computer and information science Ain Shams Universty 
-i am intersted in web development and web security
-i am currently learning node js and noSQL databases like mongoDB 
-i practice now on making RESTFUL APIS and make a simple communction between the front-end part and the back-end
-Contact me at omarr.hesham98@gmail.com
+I am Omar Hesham. I graduated from Faculty of Computer and Information Sciences, Computer Systems Department,  Ain Shams University in July 2021. I currently work as a Sys admin. I like shell scripting with bash.
+
+I like all kind of sports really,video games and Esports.
+
+Contact me at omarr.hesham98@outlook.com
 
 <!---
 Tsmbtw/Tsmbtw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
